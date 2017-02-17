@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\bin\Debug\_Kalkulator.exe.config
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\bin\Debug\_Kalkulator.exe
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\bin\Debug\_Kalkulator.pdb
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\_Kalkulator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\_Kalkulator_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\_Kalkulator_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\_Kalkulator.g.resources
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\_Kalkulator.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\_Kalkulator.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\_Kalkulator.exe
+c:\users\user\documents\visual studio 2015\Projects\_Kalkulator\obj\Debug\_Kalkulator.pdb
